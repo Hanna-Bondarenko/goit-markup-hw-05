@@ -448,7 +448,7 @@ body {
 }
 .subscribe {
   min-width: 453px;
-  margin: 0 159px 32px 0;
+  margin-bottom: 32px;
 }
 .subscribe-text {
   font-weight: 500;
