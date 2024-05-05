@@ -406,8 +406,12 @@ body {
   display: flex;
   flex-direction: column;
   margin-right: 120px;
-  width: 264px;
+  min-width: 264px;
   height: 112px;
+}
+.container-social-logo {
+  margin: 0 80px 32px 0;
+  min-width: 208px;
 }
 .social-text {
   font-weight: 500;
@@ -441,6 +445,10 @@ body {
 }
 .social-list-icon {
   fill: #f4f4fd;
+}
+.subscribe {
+  min-width: 453px;
+  margin: 0 159px 32px 0;
 }
 .subscribe-text {
   font-weight: 500;
@@ -491,6 +499,7 @@ body {
 }
 .subscribe-form-submit-svg {
   margin-left: 16px;
+  fill: #ffffff;
 }
 
 /* ============ BACKDROP ============= */
