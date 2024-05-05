@@ -447,6 +447,7 @@ body {
   fill: #f4f4fd;
 }
 .subscribe {
+  padding-left: 0;
   min-width: 453px;
   margin-bottom: 32px;
 }
