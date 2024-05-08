@@ -571,7 +571,7 @@ body {
 }
 
 .review-form-description {
-  max-width: 298px;
+  max-width: 360px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -701,6 +701,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   padding: 16px 32px;
+  margin: 0 120px 0 119px;
   border: none;
   border-radius: 4px;
   background-color: #4d5ae5;
@@ -711,6 +712,5 @@ body {
 
 .review-form-submit:hover,
 .review-form-submit:focus {
-  color: #fd9222;
-  background-color: #fcf1e0;
+  background-color: #404bbf;
 }
